@@ -9,9 +9,9 @@
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.3",
-        "laravel/framework": "^8.12",
+        "laravel/framework": "^8.40",
         "laravel/tinker": "^2.5",
-        "symfony/dom-crawler": "^5.3"
+        "symfony/dom-crawler": "^5.2"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
